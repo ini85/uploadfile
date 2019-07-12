@@ -1,0 +1,5 @@
+[DBSize]=0.4 MB
+[WXContact]=2
+[WXChatroom]=0
+[Favorite]=0
+[Message]=1
